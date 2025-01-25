@@ -1,1 +1,1 @@
-sdafdsf
+print("error")
